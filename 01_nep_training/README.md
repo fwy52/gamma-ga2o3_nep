@@ -10,7 +10,7 @@ This directory contains all input and output files for the neuroevolution potent
 
 ## Plotting Scripts
 
-The plotting scripts used in this work are based on the code from the [tang070205/tools](https://github.com/tang070205/tools/blob/main) repository and have been modified according to the specific requirements of this study.
+The plotting scripts used in this work are based on the code from the [tang070205/tools](https://github.com/tang070205/tools/blob/main) 
 
 ## Usage Instructions
 
